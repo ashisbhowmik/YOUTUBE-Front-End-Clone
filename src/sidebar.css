@@ -1,0 +1,10 @@
+.sidebar {
+  flex: 0.2;
+}
+
+.subscription {
+  font-weight: 500 !important;
+  font-size: 14px;
+  margin-top: 12px;
+  margin-left: 12px;
+}
